@@ -4,9 +4,6 @@ Fullstack web application, where user can order pizza online and check status of
 
 <br/>
 
-### Deployed link (it takes a while to open) :- <br/>
-https://realtime-pizza-application.onrender.com/
-
 <br/>
 
 ## Features 
